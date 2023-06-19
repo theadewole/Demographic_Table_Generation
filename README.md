@@ -24,5 +24,5 @@
  ![image](https://github.com/theadewole/Demographic_Table_Generation/assets/108795960/2ee5a7c6-fbb7-4940-b445-0ddfac74ead3)
  
  
-[RTF File of the Final Dataset](https://docs.google.com/document/d/1FAc2oSCLGAF8GrXI0JQ-BV4Nlmoetp4K/edit?usp=drive_link&ouid=117399581833546938372&rtpof=true&sd=true) 
+[RTF File of the Final Dataset](https://docs.google.com/document/d/1FAc2oSCLGAF8GrXI0JQ-BV4Nlmoetp4K/edit) 
 
