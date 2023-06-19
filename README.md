@@ -2,15 +2,15 @@
 - File Name: Safety Domain Assessment
 - Program Developer : Adewole Ogunade
 - Date: 29-03-2023
--Domain: Demography (DM) 
+- Domain: Demography (DM) 
 
 - Application Version: SAS STUDIO
 ## Input
-    <-Raw Dm Dataset
+        <-Raw Dm Dataset
 ## Output
-    <-DM.sas		
-    <-DM.Log		
-    <-DM.RTF
+        <-DM.sas		
+        <-DM.Log		
+        <-DM.RTF
   ## Tasks: 
         <-Map the variables that should be present in CRF to output as shown in figure below. 
         <-Enlist SDTM variables 
