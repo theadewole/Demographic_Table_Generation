@@ -1,7 +1,7 @@
 # Demographic_Table_Generation
 - File Name: Safety Domain Assessment
 - Domain: Demography (DM) 
-- Application Version: SAS STUDIO
+- Application Version: SAS onDemand for Academics
 ## Input
         Raw Dm Dataset
 ## Output
